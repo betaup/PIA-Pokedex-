@@ -1,0 +1,3945 @@
+[
+    {
+        "Nombre": "bulbasaur",
+        "Especie": "Pokémon Semilla",
+        "Descripción en Español": "Una rara semilla le fue plantada en el lomo al nacer. La planta brota y crece con este Pokémon.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 7,
+        "Peso": 69,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ],
+        "Estadísticas": {
+            "Base Hp": 45,
+            "Base Attack": 49,
+            "Base Defense": 49,
+            "Base Special Attack": 65,
+            "Base Special Defense": 65,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "ivysaur",
+        "Especie": "Pokémon Semilla",
+        "Descripción en Español": "Este Pokémon tiene un bulbo en el lomo. Dicen que, al absorber nutrientes, el bulbo se transforma en una flor grande.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 10,
+        "Peso": 130,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 62,
+            "Base Defense": 63,
+            "Base Special Attack": 80,
+            "Base Special Defense": 80,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "venusaur",
+        "Especie": "Pokémon Semilla",
+        "Descripción en Español": "Llena su cuerpo de energía con los rayos solares que captan los anchos pétalos de su flor.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 20,
+        "Peso": 1000,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 82,
+            "Base Defense": 83,
+            "Base Special Attack": 100,
+            "Base Special Defense": 100,
+            "Base Speed": 80
+        }
+    },
+    {
+        "Nombre": "charmander",
+        "Especie": "Pokémon Lagartija",
+        "Descripción en Español": "La llama de su cola indica la fuerza vital de Charmander. Será brillante si está sano.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 6,
+        "Peso": 85,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ],
+        "Estadísticas": {
+            "Base Hp": 39,
+            "Base Attack": 52,
+            "Base Defense": 43,
+            "Base Special Attack": 60,
+            "Base Special Defense": 50,
+            "Base Speed": 65
+        }
+    },
+    {
+        "Nombre": "charmeleon",
+        "Especie": "Pokémon Llama",
+        "Descripción en Español": "Suele usar la cola para derribar a su rival. Cuando lo tira, se vale de sus afiladas garras para acabar con él.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 11,
+        "Peso": 190,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ],
+        "Estadísticas": {
+            "Base Hp": 58,
+            "Base Attack": 64,
+            "Base Defense": 58,
+            "Base Special Attack": 80,
+            "Base Special Defense": 65,
+            "Base Speed": 80
+        }
+    },
+    {
+        "Nombre": "charizard",
+        "Especie": "Pokémon Llama",
+        "Descripción en Español": "Cuando lanza una descarga de fuego supercaliente, la roja llama de su cola brilla más intensamente.",
+        "Tipo/s": [
+            "fire",
+            "flying"
+        ],
+        "Altura": 17,
+        "Peso": 905,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ],
+        "Estadísticas": {
+            "Base Hp": 78,
+            "Base Attack": 84,
+            "Base Defense": 78,
+            "Base Special Attack": 109,
+            "Base Special Defense": 85,
+            "Base Speed": 100
+        }
+    },
+    {
+        "Nombre": "squirtle",
+        "Especie": "Pokémon Tortuguita",
+        "Descripción en Español": "Se protege con su caparazón y luego contraataca lanzando agua a presión cuando tiene oportunidad.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 5,
+        "Peso": 90,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ],
+        "Estadísticas": {
+            "Base Hp": 44,
+            "Base Attack": 48,
+            "Base Defense": 65,
+            "Base Special Attack": 50,
+            "Base Special Defense": 64,
+            "Base Speed": 43
+        }
+    },
+    {
+        "Nombre": "wartortle",
+        "Especie": "Pokémon Tortuga",
+        "Descripción en Español": "Si es golpeado, esconderá su cabeza. Aun así, su cola puede seguir golpeando.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 10,
+        "Peso": 225,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ],
+        "Estadísticas": {
+            "Base Hp": 59,
+            "Base Attack": 63,
+            "Base Defense": 80,
+            "Base Special Attack": 65,
+            "Base Special Defense": 80,
+            "Base Speed": 58
+        }
+    },
+    {
+        "Nombre": "blastoise",
+        "Especie": "Pokémon Armazón",
+        "Descripción en Español": "Para acabar con su enemigo, lo aplasta con el peso de su cuerpo. En momentos de apuro, se esconde en el caparazón.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 16,
+        "Peso": 855,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ],
+        "Estadísticas": {
+            "Base Hp": 79,
+            "Base Attack": 83,
+            "Base Defense": 100,
+            "Base Special Attack": 85,
+            "Base Special Defense": 105,
+            "Base Speed": 78
+        }
+    },
+    {
+        "Nombre": "caterpie",
+        "Especie": "Pokémon Gusano",
+        "Descripción en Español": "Para protegerse despide un hedor horrible de sus antenas, con el que repele a sus enemigos.",
+        "Tipo/s": [
+            "bug"
+        ],
+        "Altura": 3,
+        "Peso": 29,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ],
+        "Estadísticas": {
+            "Base Hp": 45,
+            "Base Attack": 30,
+            "Base Defense": 35,
+            "Base Special Attack": 20,
+            "Base Special Defense": 20,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "metapod",
+        "Especie": "Pokémon Capullo",
+        "Descripción en Español": "Su frágil cuerpo está recubierto de una coraza dura como el acero. Permanece quieto en su desarrollo.",
+        "Tipo/s": [
+            "bug"
+        ],
+        "Altura": 7,
+        "Peso": 99,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 20,
+            "Base Defense": 55,
+            "Base Special Attack": 25,
+            "Base Special Defense": 25,
+            "Base Speed": 30
+        }
+    },
+    {
+        "Nombre": "butterfree",
+        "Especie": "Pokémon Mariposa",
+        "Descripción en Español": "Adora el néctar de las flores. Puede localizar hasta las más pequeñas cantidades de polen.",
+        "Tipo/s": [
+            "bug",
+            "flying"
+        ],
+        "Altura": 11,
+        "Peso": 320,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "white",
+        "Linea Evolutiva": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 45,
+            "Base Defense": 50,
+            "Base Special Attack": 90,
+            "Base Special Defense": 80,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "weedle",
+        "Especie": "Pokémon Oruga",
+        "Descripción en Español": "Suele habitar bosques y praderas. Tiene un afilado y venenoso aguijón de unos 5 cm encima de la cabeza.",
+        "Tipo/s": [
+            "bug",
+            "poison"
+        ],
+        "Altura": 3,
+        "Peso": 32,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 35,
+            "Base Defense": 30,
+            "Base Special Attack": 20,
+            "Base Special Defense": 20,
+            "Base Speed": 50
+        }
+    },
+    {
+        "Nombre": "kakuna",
+        "Especie": "Pokémon Capullo",
+        "Descripción en Español": "Casi incapaz de moverse, este Pokémon solo puede endurecer su caparazón para protegerse.",
+        "Tipo/s": [
+            "bug",
+            "poison"
+        ],
+        "Altura": 6,
+        "Peso": 100,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ],
+        "Estadísticas": {
+            "Base Hp": 45,
+            "Base Attack": 25,
+            "Base Defense": 50,
+            "Base Special Attack": 25,
+            "Base Special Defense": 25,
+            "Base Speed": 35
+        }
+    },
+    {
+        "Nombre": "beedrill",
+        "Especie": "Pokémon Abeja Veneno",
+        "Descripción en Español": "Tiene 3 aguijones venenosos en sus patas y cola. Suelen pinchar a sus enemigos repetidas veces.",
+        "Tipo/s": [
+            "bug",
+            "poison"
+        ],
+        "Altura": 10,
+        "Peso": 295,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 90,
+            "Base Defense": 40,
+            "Base Special Attack": 45,
+            "Base Special Defense": 80,
+            "Base Speed": 75
+        }
+    },
+    {
+        "Nombre": "pidgey",
+        "Especie": "Pokémon Pajarito",
+        "Descripción en Español": "Muy común en bosques y selvas. Aletea al nivel del suelo para levantar la gravilla.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 3,
+        "Peso": 18,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 45,
+            "Base Defense": 40,
+            "Base Special Attack": 35,
+            "Base Special Defense": 35,
+            "Base Speed": 56
+        }
+    },
+    {
+        "Nombre": "pidgeotto",
+        "Especie": "Pokémon Pájaro",
+        "Descripción en Español": "Tiene unas garras desarrolladas. Puede atrapar un Exeggcute y transportarlo desde una distancia de casi 100 km.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 11,
+        "Peso": 300,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ],
+        "Estadísticas": {
+            "Base Hp": 63,
+            "Base Attack": 60,
+            "Base Defense": 55,
+            "Base Special Attack": 50,
+            "Base Special Defense": 50,
+            "Base Speed": 71
+        }
+    },
+    {
+        "Nombre": "pidgeot",
+        "Especie": "Pokémon Pájaro",
+        "Descripción en Español": "Cuando caza, vuela muy deprisa a ras del agua y sorprende a inocentes presas como Magikarp.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 15,
+        "Peso": 395,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ],
+        "Estadísticas": {
+            "Base Hp": 83,
+            "Base Attack": 80,
+            "Base Defense": 75,
+            "Base Special Attack": 70,
+            "Base Special Defense": 70,
+            "Base Speed": 101
+        }
+    },
+    {
+        "Nombre": "rattata",
+        "Especie": "Pokémon Ratón",
+        "Descripción en Español": "Vive allí donde haya comida disponible. Busca todo el día, sin descanso, algo comestible.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 3,
+        "Peso": 35,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "rattata",
+            "raticate"
+        ],
+        "Estadísticas": {
+            "Base Hp": 30,
+            "Base Attack": 56,
+            "Base Defense": 35,
+            "Base Special Attack": 25,
+            "Base Special Defense": 35,
+            "Base Speed": 72
+        }
+    },
+    {
+        "Nombre": "raticate",
+        "Especie": "Pokémon Ratón",
+        "Descripción en Español": "Lima sus colmillos royendo objetos duros. Con ellos puede destruir incluso paredes de hormigón.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 7,
+        "Peso": 185,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "rattata",
+            "raticate"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 81,
+            "Base Defense": 60,
+            "Base Special Attack": 50,
+            "Base Special Defense": 70,
+            "Base Speed": 97
+        }
+    },
+    {
+        "Nombre": "spearow",
+        "Especie": "Pokémon Pajarito",
+        "Descripción en Español": "Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 3,
+        "Peso": 20,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "spearow",
+            "fearow"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 60,
+            "Base Defense": 30,
+            "Base Special Attack": 31,
+            "Base Special Defense": 31,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "fearow",
+        "Especie": "Pokémon Pico",
+        "Descripción en Español": "Con sus enormes y magníficas alas, puede seguir volando sin tener que aterrizar para descansar.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 12,
+        "Peso": 380,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "spearow",
+            "fearow"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 90,
+            "Base Defense": 65,
+            "Base Special Attack": 61,
+            "Base Special Defense": 61,
+            "Base Speed": 100
+        }
+    },
+    {
+        "Nombre": "ekans",
+        "Especie": "Pokémon Serpiente",
+        "Descripción en Español": "Cuanto más viejo, más crece este Pokémon. Por la noche, descansa en las ramas de los árboles.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 20,
+        "Peso": 69,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "ekans",
+            "arbok"
+        ],
+        "Estadísticas": {
+            "Base Hp": 35,
+            "Base Attack": 60,
+            "Base Defense": 44,
+            "Base Special Attack": 40,
+            "Base Special Defense": 54,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "arbok",
+        "Especie": "Pokémon Cobra",
+        "Descripción en Español": "El dibujo que tiene en la panza aterroriza. Los rivales más débiles salen huyendo al verlo.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 35,
+        "Peso": 650,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "ekans",
+            "arbok"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 95,
+            "Base Defense": 69,
+            "Base Special Attack": 65,
+            "Base Special Defense": 79,
+            "Base Speed": 80
+        }
+    },
+    {
+        "Nombre": "pikachu",
+        "Especie": "Pokémon Ratón",
+        "Descripción en Español": "Levanta su cola para vigilar los alrededores. A veces, puede ser alcanzado por un rayo en esa pose.",
+        "Tipo/s": [
+            "electric"
+        ],
+        "Altura": 4,
+        "Peso": 60,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "pichu",
+            "pikachu",
+            "raichu"
+        ],
+        "Estadísticas": {
+            "Base Hp": 35,
+            "Base Attack": 55,
+            "Base Defense": 40,
+            "Base Special Attack": 50,
+            "Base Special Defense": 50,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "raichu",
+        "Especie": "Pokémon Ratón",
+        "Descripción en Español": "Cuando se carga de electricidad, sus músculos se tensan y se vuelve más agresivo de lo normal.",
+        "Tipo/s": [
+            "electric"
+        ],
+        "Altura": 8,
+        "Peso": 300,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "pichu",
+            "pikachu",
+            "raichu"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 90,
+            "Base Defense": 55,
+            "Base Special Attack": 90,
+            "Base Special Defense": 80,
+            "Base Speed": 110
+        }
+    },
+    {
+        "Nombre": "sandshrew",
+        "Especie": "Pokémon Ratón",
+        "Descripción en Español": "Este Pokémon permanece bajo tierra. Si se siente amenazado, se enrosca para defenderse.",
+        "Tipo/s": [
+            "ground"
+        ],
+        "Altura": 6,
+        "Peso": 120,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "sandshrew",
+            "sandslash"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 75,
+            "Base Defense": 85,
+            "Base Special Attack": 20,
+            "Base Special Defense": 30,
+            "Base Speed": 40
+        }
+    },
+    {
+        "Nombre": "sandslash",
+        "Especie": "Pokémon Ratón",
+        "Descripción en Español": "Si cava a gran velocidad, puede que se le caigan las garras y púas. Vuelven a crecerle en un día.",
+        "Tipo/s": [
+            "ground"
+        ],
+        "Altura": 10,
+        "Peso": 295,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "sandshrew",
+            "sandslash"
+        ],
+        "Estadísticas": {
+            "Base Hp": 75,
+            "Base Attack": 100,
+            "Base Defense": 110,
+            "Base Special Attack": 45,
+            "Base Special Defense": 55,
+            "Base Speed": 65
+        }
+    },
+    {
+        "Nombre": "nidoran-f",
+        "Especie": "Pokémon Pin Veneno",
+        "Descripción en Español": "Aunque pequeñas, sus venenosas púas son muy peligrosas. Tienen un cuerno más pequeño que los machos.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 4,
+        "Peso": 70,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 47,
+            "Base Defense": 52,
+            "Base Special Attack": 40,
+            "Base Special Defense": 40,
+            "Base Speed": 41
+        }
+    },
+    {
+        "Nombre": "nidorina",
+        "Especie": "Pokémon Pin Veneno",
+        "Descripción en Español": "Tiene un carácter afable. Emite ondas ultrasónicas para confundir al enemigo.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 8,
+        "Peso": 200,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ],
+        "Estadísticas": {
+            "Base Hp": 70,
+            "Base Attack": 62,
+            "Base Defense": 67,
+            "Base Special Attack": 55,
+            "Base Special Defense": 55,
+            "Base Speed": 56
+        }
+    },
+    {
+        "Nombre": "nidoqueen",
+        "Especie": "Pokémon Taladro",
+        "Descripción en Español": "Usa su cuerpo duro y escamoso para sellar la entrada a su madriguera y protegerse de los depredadores.",
+        "Tipo/s": [
+            "poison",
+            "ground"
+        ],
+        "Altura": 13,
+        "Peso": 600,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 92,
+            "Base Defense": 87,
+            "Base Special Attack": 75,
+            "Base Special Defense": 85,
+            "Base Speed": 76
+        }
+    },
+    {
+        "Nombre": "nidoran-m",
+        "Especie": "Pokémon Pin Veneno",
+        "Descripción en Español": "Saca las orejas por encima de la hierba para explorar el territorio. Le protege su cuerno venenoso.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 5,
+        "Peso": 90,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ],
+        "Estadísticas": {
+            "Base Hp": 46,
+            "Base Attack": 57,
+            "Base Defense": 40,
+            "Base Special Attack": 40,
+            "Base Special Defense": 40,
+            "Base Speed": 50
+        }
+    },
+    {
+        "Nombre": "nidorino",
+        "Especie": "Pokémon Pin Veneno",
+        "Descripción en Español": "Levanta sus grandes orejas para vigilar. Si detecta algo, atacará de inmediato.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 9,
+        "Peso": 195,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ],
+        "Estadísticas": {
+            "Base Hp": 61,
+            "Base Attack": 72,
+            "Base Defense": 57,
+            "Base Special Attack": 55,
+            "Base Special Defense": 55,
+            "Base Speed": 65
+        }
+    },
+    {
+        "Nombre": "nidoking",
+        "Especie": "Pokémon Taladro",
+        "Descripción en Español": "Es fácil reconocerlo por tener una dura piel y un gran cuerno lleno de peligrosísimo veneno.",
+        "Tipo/s": [
+            "poison",
+            "ground"
+        ],
+        "Altura": 14,
+        "Peso": 620,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ],
+        "Estadísticas": {
+            "Base Hp": 81,
+            "Base Attack": 102,
+            "Base Defense": 77,
+            "Base Special Attack": 85,
+            "Base Special Defense": 75,
+            "Base Speed": 85
+        }
+    },
+    {
+        "Nombre": "clefairy",
+        "Especie": "Pokémon Hada",
+        "Descripción en Español": "Se dice que la felicidad llegará a quien vea a un grupo de Clefairy bailando a la luz de la luna llena.",
+        "Tipo/s": [
+            "fairy"
+        ],
+        "Altura": 6,
+        "Peso": 75,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "cleffa",
+            "clefairy",
+            "clefable"
+        ],
+        "Estadísticas": {
+            "Base Hp": 70,
+            "Base Attack": 45,
+            "Base Defense": 48,
+            "Base Special Attack": 60,
+            "Base Special Defense": 65,
+            "Base Speed": 35
+        }
+    },
+    {
+        "Nombre": "clefable",
+        "Especie": "Pokémon Hada",
+        "Descripción en Español": "Su oído es tan agudo que puede oír una aguja caer a 1 km. Vive en montañas solitarias.",
+        "Tipo/s": [
+            "fairy"
+        ],
+        "Altura": 13,
+        "Peso": 400,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "cleffa",
+            "clefairy",
+            "clefable"
+        ],
+        "Estadísticas": {
+            "Base Hp": 95,
+            "Base Attack": 70,
+            "Base Defense": 73,
+            "Base Special Attack": 95,
+            "Base Special Defense": 90,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "vulpix",
+        "Especie": "Pokémon Zorro",
+        "Descripción en Español": "Cuando nace solo tiene una cola, pero a medida que crece, esta se va dividiendo desde la punta.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 6,
+        "Peso": 99,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "vulpix",
+            "ninetales"
+        ],
+        "Estadísticas": {
+            "Base Hp": 38,
+            "Base Attack": 41,
+            "Base Defense": 40,
+            "Base Special Attack": 50,
+            "Base Special Defense": 65,
+            "Base Speed": 65
+        }
+    },
+    {
+        "Nombre": "ninetales",
+        "Especie": "Pokémon Zorro",
+        "Descripción en Español": "Tiene nueve colas y un pelaje de color dorado. Dicen que este Pokémon llega a vivir 1000 años.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 11,
+        "Peso": 199,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "vulpix",
+            "ninetales"
+        ],
+        "Estadísticas": {
+            "Base Hp": 73,
+            "Base Attack": 76,
+            "Base Defense": 75,
+            "Base Special Attack": 81,
+            "Base Special Defense": 100,
+            "Base Speed": 100
+        }
+    },
+    {
+        "Nombre": "jigglypuff",
+        "Especie": "Pokémon Globo",
+        "Descripción en Español": "Cautiva con la mirada a su enemigo y hace que se quede profundamente dormido mientras entona una dulce melodía.",
+        "Tipo/s": [
+            "normal",
+            "fairy"
+        ],
+        "Altura": 5,
+        "Peso": 55,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "igglybuff",
+            "jigglypuff",
+            "wigglytuff"
+        ],
+        "Estadísticas": {
+            "Base Hp": 115,
+            "Base Attack": 45,
+            "Base Defense": 20,
+            "Base Special Attack": 45,
+            "Base Special Defense": 25,
+            "Base Speed": 20
+        }
+    },
+    {
+        "Nombre": "wigglytuff",
+        "Especie": "Pokémon Globo",
+        "Descripción en Español": "Su piel es tan suave que si dos de ellos se acurrucan juntos, no querrán separarse nunca.",
+        "Tipo/s": [
+            "normal",
+            "fairy"
+        ],
+        "Altura": 10,
+        "Peso": 120,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "igglybuff",
+            "jigglypuff",
+            "wigglytuff"
+        ],
+        "Estadísticas": {
+            "Base Hp": 140,
+            "Base Attack": 70,
+            "Base Defense": 45,
+            "Base Special Attack": 85,
+            "Base Special Defense": 50,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "zubat",
+        "Especie": "Pokémon Murciélago",
+        "Descripción en Español": "Aunque carezca de ojos, puede detectar obstáculos con las ondas ultrasónicas que emite su boca.",
+        "Tipo/s": [
+            "poison",
+            "flying"
+        ],
+        "Altura": 8,
+        "Peso": 75,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "zubat",
+            "golbat",
+            "crobat"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 45,
+            "Base Defense": 35,
+            "Base Special Attack": 30,
+            "Base Special Defense": 40,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "golbat",
+        "Especie": "Pokémon Murciélago",
+        "Descripción en Español": "Cuando ataque, seguirá chupando energía de su víctima, aunque pese tanto que ya no pueda volar.",
+        "Tipo/s": [
+            "poison",
+            "flying"
+        ],
+        "Altura": 16,
+        "Peso": 550,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "zubat",
+            "golbat",
+            "crobat"
+        ],
+        "Estadísticas": {
+            "Base Hp": 75,
+            "Base Attack": 80,
+            "Base Defense": 70,
+            "Base Special Attack": 65,
+            "Base Special Defense": 75,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "oddish",
+        "Especie": "Pokémon Hierbajo",
+        "Descripción en Español": "Durante el día, se agazapa en el frío subsuelo huyendo del sol. La luz de la luna le hace crecer mucho.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 5,
+        "Peso": 54,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "oddish",
+            "gloom",
+            "vileplume",
+            "bellossom"
+        ],
+        "Estadísticas": {
+            "Base Hp": 45,
+            "Base Attack": 50,
+            "Base Defense": 55,
+            "Base Special Attack": 75,
+            "Base Special Defense": 65,
+            "Base Speed": 30
+        }
+    },
+    {
+        "Nombre": "gloom",
+        "Especie": "Pokémon Hierbajo",
+        "Descripción en Español": "¡Huele bastante mal! De todas formas, una de cada mil personas aprecian su fétido olor.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 8,
+        "Peso": 86,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "oddish",
+            "gloom",
+            "vileplume",
+            "bellossom"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 65,
+            "Base Defense": 70,
+            "Base Special Attack": 85,
+            "Base Special Defense": 75,
+            "Base Speed": 40
+        }
+    },
+    {
+        "Nombre": "vileplume",
+        "Especie": "Pokémon Flor",
+        "Descripción en Español": "Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 12,
+        "Peso": 186,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "oddish",
+            "gloom",
+            "vileplume",
+            "bellossom"
+        ],
+        "Estadísticas": {
+            "Base Hp": 75,
+            "Base Attack": 80,
+            "Base Defense": 85,
+            "Base Special Attack": 110,
+            "Base Special Defense": 90,
+            "Base Speed": 50
+        }
+    },
+    {
+        "Nombre": "paras",
+        "Especie": "Pokémon Hongo",
+        "Descripción en Español": "Lleva en el lomo dos setas parásitas llamadas tochukaso, que crecen con él.",
+        "Tipo/s": [
+            "bug",
+            "grass"
+        ],
+        "Altura": 3,
+        "Peso": 54,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "paras",
+            "parasect"
+        ],
+        "Estadísticas": {
+            "Base Hp": 35,
+            "Base Attack": 70,
+            "Base Defense": 55,
+            "Base Special Attack": 45,
+            "Base Special Defense": 55,
+            "Base Speed": 25
+        }
+    },
+    {
+        "Nombre": "parasect",
+        "Especie": "Pokémon Hongo",
+        "Descripción en Español": "Parasect está dominado por una seta parásita mayor que él. Dispersa esporas venenosas.",
+        "Tipo/s": [
+            "bug",
+            "grass"
+        ],
+        "Altura": 10,
+        "Peso": 295,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "paras",
+            "parasect"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 95,
+            "Base Defense": 80,
+            "Base Special Attack": 60,
+            "Base Special Defense": 80,
+            "Base Speed": 30
+        }
+    },
+    {
+        "Nombre": "venonat",
+        "Especie": "Pokémon Insecto",
+        "Descripción en Español": "Sus grandes ojos son en realidad grupos de ojos diminutos. Por la noche se siente atraído por la luz.",
+        "Tipo/s": [
+            "bug",
+            "poison"
+        ],
+        "Altura": 10,
+        "Peso": 300,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "venonat",
+            "venomoth"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 55,
+            "Base Defense": 50,
+            "Base Special Attack": 40,
+            "Base Special Defense": 55,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "venomoth",
+        "Especie": "Pokémon Polilla Ven.",
+        "Descripción en Español": "Lanza unas escamas que paralizan a cualquiera. Quien las toque, no podrá ni ponerse de pie.",
+        "Tipo/s": [
+            "bug",
+            "poison"
+        ],
+        "Altura": 15,
+        "Peso": 125,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "venonat",
+            "venomoth"
+        ],
+        "Estadísticas": {
+            "Base Hp": 70,
+            "Base Attack": 65,
+            "Base Defense": 60,
+            "Base Special Attack": 90,
+            "Base Special Defense": 75,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "diglett",
+        "Especie": "Pokémon Topo",
+        "Descripción en Español": "Vive un metro por debajo del suelo, donde se alimenta de raíces. También aparece en la superficie.",
+        "Tipo/s": [
+            "ground"
+        ],
+        "Altura": 2,
+        "Peso": 8,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "diglett",
+            "dugtrio"
+        ],
+        "Estadísticas": {
+            "Base Hp": 10,
+            "Base Attack": 55,
+            "Base Defense": 25,
+            "Base Special Attack": 35,
+            "Base Special Defense": 45,
+            "Base Speed": 95
+        }
+    },
+    {
+        "Nombre": "dugtrio",
+        "Especie": "Pokémon Topo",
+        "Descripción en Español": "En combate, cava la tierra, se esconde y sale de repente para golpear a su rival. Nunca se sabe por dónde puede aparecer.",
+        "Tipo/s": [
+            "ground"
+        ],
+        "Altura": 7,
+        "Peso": 333,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "diglett",
+            "dugtrio"
+        ],
+        "Estadísticas": {
+            "Base Hp": 35,
+            "Base Attack": 100,
+            "Base Defense": 50,
+            "Base Special Attack": 50,
+            "Base Special Defense": 70,
+            "Base Speed": 120
+        }
+    },
+    {
+        "Nombre": "meowth",
+        "Especie": "Pokémon Gato Araña",
+        "Descripción en Español": "Es de naturaleza nocturna. Le atraen los objetos brillantes.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 4,
+        "Peso": 42,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "meowth",
+            "persian",
+            "perrserker"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 45,
+            "Base Defense": 35,
+            "Base Special Attack": 40,
+            "Base Special Defense": 40,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "persian",
+        "Especie": "Pokémon Gato Fino",
+        "Descripción en Español": "Aunque es muy admirado por el pelo, es difícil de entrenar como mascota, porque es un poco travieso.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 10,
+        "Peso": 320,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "meowth",
+            "persian",
+            "perrserker"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 70,
+            "Base Defense": 60,
+            "Base Special Attack": 65,
+            "Base Special Defense": 65,
+            "Base Speed": 115
+        }
+    },
+    {
+        "Nombre": "psyduck",
+        "Especie": "Pokémon Pato",
+        "Descripción en Español": "Padece continuamente dolores de cabeza. Cuando son muy fuertes, empieza a usar misteriosos poderes.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 8,
+        "Peso": 196,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "psyduck",
+            "golduck"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 52,
+            "Base Defense": 48,
+            "Base Special Attack": 65,
+            "Base Special Defense": 50,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "golduck",
+        "Especie": "Pokémon Pato",
+        "Descripción en Español": "Aparece en ríos al anochecer. Puede usar poderes telequinéticos si su frente brilla misteriosamente.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 17,
+        "Peso": 766,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "psyduck",
+            "golduck"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 82,
+            "Base Defense": 78,
+            "Base Special Attack": 95,
+            "Base Special Defense": 80,
+            "Base Speed": 85
+        }
+    },
+    {
+        "Nombre": "mankey",
+        "Especie": "Pokémon Mono Cerdo",
+        "Descripción en Español": "Es peligroso acercarse si se enfada sin razón aparente, ya que no distingue entre amigos y enemigos.",
+        "Tipo/s": [
+            "fighting"
+        ],
+        "Altura": 5,
+        "Peso": 280,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "mankey",
+            "primeape",
+            "annihilape"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 80,
+            "Base Defense": 35,
+            "Base Special Attack": 35,
+            "Base Special Defense": 45,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "primeape",
+        "Especie": "Pokémon Mono Cerdo",
+        "Descripción en Español": "Solo se calma cuando nadie está cerca. Llegar a ver ese momento es realmente difícil.",
+        "Tipo/s": [
+            "fighting"
+        ],
+        "Altura": 10,
+        "Peso": 320,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "mankey",
+            "primeape",
+            "annihilape"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 105,
+            "Base Defense": 60,
+            "Base Special Attack": 60,
+            "Base Special Defense": 70,
+            "Base Speed": 95
+        }
+    },
+    {
+        "Nombre": "growlithe",
+        "Especie": "Pokémon Perrito",
+        "Descripción en Español": "Es muy agradable y leal. Para ahuyentar al enemigo, se pone a ladrar y a dar bocados.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 7,
+        "Peso": 190,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "growlithe",
+            "arcanine"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 70,
+            "Base Defense": 45,
+            "Base Special Attack": 70,
+            "Base Special Defense": 50,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "arcanine",
+        "Especie": "Pokémon Leyenda",
+        "Descripción en Español": "Un Pokémon muy admirado desde la antigüedad por su belleza. Corre ágilmente como si tuviera alas.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 19,
+        "Peso": 1550,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "growlithe",
+            "arcanine"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 110,
+            "Base Defense": 80,
+            "Base Special Attack": 100,
+            "Base Special Defense": 80,
+            "Base Speed": 95
+        }
+    },
+    {
+        "Nombre": "poliwag",
+        "Especie": "Pokémon Renacuajo",
+        "Descripción en Español": "Tiene una piel extraordinaria, fina y húmeda, que deja entrever las vísceras que tiene dispuestas en espiral.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 6,
+        "Peso": 124,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath",
+            "politoed"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 50,
+            "Base Defense": 40,
+            "Base Special Attack": 40,
+            "Base Special Defense": 40,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "poliwhirl",
+        "Especie": "Pokémon Renacuajo",
+        "Descripción en Español": "Capaz de vivir dentro o fuera del agua. Fuera del agua suda para mantener baboso su cuerpo.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 10,
+        "Peso": 200,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath",
+            "politoed"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 65,
+            "Base Defense": 65,
+            "Base Special Attack": 50,
+            "Base Special Defense": 50,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "poliwrath",
+        "Especie": "Pokémon Renacuajo",
+        "Descripción en Español": "Tiene músculos muy desarrollados. Es capaz de nadar en el océano sin descanso.",
+        "Tipo/s": [
+            "water",
+            "fighting"
+        ],
+        "Altura": 13,
+        "Peso": 540,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath",
+            "politoed"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 95,
+            "Base Defense": 95,
+            "Base Special Attack": 70,
+            "Base Special Defense": 90,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "abra",
+        "Especie": "Pokémon Psi",
+        "Descripción en Español": "Duerme 18 horas al día y mientras lo hace es capaz de usar una serie de poderes extrasensoriales.",
+        "Tipo/s": [
+            "psychic"
+        ],
+        "Altura": 9,
+        "Peso": 195,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ],
+        "Estadísticas": {
+            "Base Hp": 25,
+            "Base Attack": 20,
+            "Base Defense": 15,
+            "Base Special Attack": 105,
+            "Base Special Defense": 55,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "kadabra",
+        "Especie": "Pokémon Psi",
+        "Descripción en Español": "Cuando utiliza su poder psíquico, emite poderosas ondas alfa que pueden destruir dispositivos.",
+        "Tipo/s": [
+            "psychic"
+        ],
+        "Altura": 13,
+        "Peso": 565,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 35,
+            "Base Defense": 30,
+            "Base Special Attack": 120,
+            "Base Special Defense": 70,
+            "Base Speed": 105
+        }
+    },
+    {
+        "Nombre": "alakazam",
+        "Especie": "Pokémon Psi",
+        "Descripción en Español": "Sus neuronas se multiplican continuamente durante su vida. Por eso, siempre lo recuerda todo.",
+        "Tipo/s": [
+            "psychic"
+        ],
+        "Altura": 15,
+        "Peso": 480,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 50,
+            "Base Defense": 45,
+            "Base Special Attack": 135,
+            "Base Special Defense": 95,
+            "Base Speed": 120
+        }
+    },
+    {
+        "Nombre": "machop",
+        "Especie": "Pokémon Superpoder",
+        "Descripción en Español": "Levanta un Graveler para mantener sus músculos en forma. Domina todas las artes marciales.",
+        "Tipo/s": [
+            "fighting"
+        ],
+        "Altura": 8,
+        "Peso": 195,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "machop",
+            "machoke",
+            "machamp"
+        ],
+        "Estadísticas": {
+            "Base Hp": 70,
+            "Base Attack": 80,
+            "Base Defense": 50,
+            "Base Special Attack": 35,
+            "Base Special Defense": 35,
+            "Base Speed": 35
+        }
+    },
+    {
+        "Nombre": "machoke",
+        "Especie": "Pokémon Superpoder",
+        "Descripción en Español": "Su musculoso cuerpo es tan fuerte que usa un cinto antifuerza para controlar sus movimientos.",
+        "Tipo/s": [
+            "fighting"
+        ],
+        "Altura": 15,
+        "Peso": 705,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "machop",
+            "machoke",
+            "machamp"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 100,
+            "Base Defense": 70,
+            "Base Special Attack": 50,
+            "Base Special Defense": 60,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "machamp",
+        "Especie": "Pokémon Superpoder",
+        "Descripción en Español": "Tiene cuatro brazos tan bien desarrollados que puede dar una serie de 1000 puñetazos en cuestión de dos segundos.",
+        "Tipo/s": [
+            "fighting"
+        ],
+        "Altura": 16,
+        "Peso": 1300,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "machop",
+            "machoke",
+            "machamp"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 130,
+            "Base Defense": 80,
+            "Base Special Attack": 65,
+            "Base Special Defense": 85,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "bellsprout",
+        "Especie": "Pokémon Flor",
+        "Descripción en Español": "Aunque su cuerpo es extremadamente delgado, es muy rápido a la hora de capturar sus presas.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 7,
+        "Peso": 40,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 75,
+            "Base Defense": 35,
+            "Base Special Attack": 70,
+            "Base Special Defense": 30,
+            "Base Speed": 40
+        }
+    },
+    {
+        "Nombre": "weepinbell",
+        "Especie": "Pokémon Matamoscas",
+        "Descripción en Español": "Las hojas que tiene actúan como cuchillas en combate. Otra de sus armas es el corrosivo fluido que expulsa.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 10,
+        "Peso": 64,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 90,
+            "Base Defense": 50,
+            "Base Special Attack": 85,
+            "Base Special Defense": 45,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "victreebel",
+        "Especie": "Pokémon Matamoscas",
+        "Descripción en Español": "Dicen que vive en grandes colonias en el interior de las junglas, aunque nadie ha podido verificarlo.",
+        "Tipo/s": [
+            "grass",
+            "poison"
+        ],
+        "Altura": 17,
+        "Peso": 155,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 105,
+            "Base Defense": 65,
+            "Base Special Attack": 100,
+            "Base Special Defense": 70,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "tentacool",
+        "Especie": "Pokémon Medusa",
+        "Descripción en Español": "Su cuerpo se compone casi en exclusiva de agua. Lanza extraños rayos con sus ojos cristalinos.",
+        "Tipo/s": [
+            "water",
+            "poison"
+        ],
+        "Altura": 9,
+        "Peso": 455,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "tentacool",
+            "tentacruel"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 40,
+            "Base Defense": 35,
+            "Base Special Attack": 50,
+            "Base Special Defense": 100,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "tentacruel",
+        "Especie": "Pokémon Medusa",
+        "Descripción en Español": "Cuando caza, extiende los cortos tentáculos que tiene para atrapar e inmovilizar a su presa.",
+        "Tipo/s": [
+            "water",
+            "poison"
+        ],
+        "Altura": 16,
+        "Peso": 550,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "tentacool",
+            "tentacruel"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 70,
+            "Base Defense": 65,
+            "Base Special Attack": 80,
+            "Base Special Defense": 120,
+            "Base Speed": 100
+        }
+    },
+    {
+        "Nombre": "geodude",
+        "Especie": "Pokémon Roca",
+        "Descripción en Español": "Aparecen en llanos y montañas. Como parecen rocas, la gente se tropieza con ellos o los pisa.",
+        "Tipo/s": [
+            "rock",
+            "ground"
+        ],
+        "Altura": 4,
+        "Peso": 200,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "geodude",
+            "graveler",
+            "golem"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 80,
+            "Base Defense": 100,
+            "Base Special Attack": 30,
+            "Base Special Defense": 30,
+            "Base Speed": 20
+        }
+    },
+    {
+        "Nombre": "graveler",
+        "Especie": "Pokémon Roca",
+        "Descripción en Español": "De naturaleza descuidada y libre, no le importa dañarse cuando baja rodando montañas.",
+        "Tipo/s": [
+            "rock",
+            "ground"
+        ],
+        "Altura": 10,
+        "Peso": 1050,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "geodude",
+            "graveler",
+            "golem"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 95,
+            "Base Defense": 115,
+            "Base Special Attack": 45,
+            "Base Special Defense": 45,
+            "Base Speed": 35
+        }
+    },
+    {
+        "Nombre": "golem",
+        "Especie": "Pokémon Megatón",
+        "Descripción en Español": "Se lanza montaña abajo y deja un surco desde la cima hasta el pie. Es mejor mantenerse alejado.",
+        "Tipo/s": [
+            "rock",
+            "ground"
+        ],
+        "Altura": 14,
+        "Peso": 3000,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "geodude",
+            "graveler",
+            "golem"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 120,
+            "Base Defense": 130,
+            "Base Special Attack": 55,
+            "Base Special Defense": 65,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "ponyta",
+        "Especie": "Pokémon Caballo Fuego",
+        "Descripción en Español": "Cuando nace, apenas puede tenerse en pie. Pero va fortaleciendo las patas en cuanto empieza a galopar.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 10,
+        "Peso": 300,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "ponyta",
+            "rapidash"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 85,
+            "Base Defense": 55,
+            "Base Special Attack": 65,
+            "Base Special Defense": 65,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "rapidash",
+        "Especie": "Pokémon Caballo Fuego",
+        "Descripción en Español": "Galopa a casi 240 km por hora. Su crin ardiente parece una flecha cuando corre.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 17,
+        "Peso": 950,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "ponyta",
+            "rapidash"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 100,
+            "Base Defense": 70,
+            "Base Special Attack": 80,
+            "Base Special Defense": 80,
+            "Base Speed": 105
+        }
+    },
+    {
+        "Nombre": "slowpoke",
+        "Especie": "Pokémon Atontado",
+        "Descripción en Español": "Descansa ocioso junto al agua. Si algo muerde su cola, no lo notará en todo el día.",
+        "Tipo/s": [
+            "water",
+            "psychic"
+        ],
+        "Altura": 12,
+        "Peso": 360,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "slowpoke",
+            "slowbro",
+            "slowking"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 65,
+            "Base Defense": 65,
+            "Base Special Attack": 40,
+            "Base Special Defense": 40,
+            "Base Speed": 15
+        }
+    },
+    {
+        "Nombre": "slowbro",
+        "Especie": "Pokémon Ermitaño",
+        "Descripción en Español": "Tiene una cola tan apetecible, que el Shellder que va enganchado a ella no se soltará por nada del mundo.",
+        "Tipo/s": [
+            "water",
+            "psychic"
+        ],
+        "Altura": 16,
+        "Peso": 785,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "slowpoke",
+            "slowbro",
+            "slowking"
+        ],
+        "Estadísticas": {
+            "Base Hp": 95,
+            "Base Attack": 75,
+            "Base Defense": 110,
+            "Base Special Attack": 100,
+            "Base Special Defense": 80,
+            "Base Speed": 30
+        }
+    },
+    {
+        "Nombre": "magnemite",
+        "Especie": "Pokémon Imán",
+        "Descripción en Español": "Las unidades a los lados de su cuerpo generan energía antigravitatoria para mantenerlo en el aire.",
+        "Tipo/s": [
+            "electric",
+            "steel"
+        ],
+        "Altura": 3,
+        "Peso": 60,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "magnemite",
+            "magneton",
+            "magnezone"
+        ],
+        "Estadísticas": {
+            "Base Hp": 25,
+            "Base Attack": 35,
+            "Base Defense": 70,
+            "Base Special Attack": 95,
+            "Base Special Defense": 55,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "magneton",
+        "Especie": "Pokémon Imán",
+        "Descripción en Español": "Lo constituye un grupo de Magnemite. Descarga potentes ondas magnéticas de alto voltaje.",
+        "Tipo/s": [
+            "electric",
+            "steel"
+        ],
+        "Altura": 10,
+        "Peso": 600,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "magnemite",
+            "magneton",
+            "magnezone"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 60,
+            "Base Defense": 95,
+            "Base Special Attack": 120,
+            "Base Special Defense": 70,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "farfetchd",
+        "Especie": "Pokémon Pato Salvaje",
+        "Descripción en Español": "El puerro que lleva es su mejor arma. Suele usarlo como espada para cortar cosas.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 8,
+        "Peso": 150,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "farfetchd",
+            "sirfetchd"
+        ],
+        "Estadísticas": {
+            "Base Hp": 52,
+            "Base Attack": 90,
+            "Base Defense": 55,
+            "Base Special Attack": 58,
+            "Base Special Defense": 62,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "doduo",
+        "Especie": "Pokémon Ave Gemela",
+        "Descripción en Español": "Este Pokémon de dos cabezas es el resultado de una mutación. Cuando corre, puede alcanzar casi 100 km por hora.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 14,
+        "Peso": 392,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "doduo",
+            "dodrio"
+        ],
+        "Estadísticas": {
+            "Base Hp": 35,
+            "Base Attack": 85,
+            "Base Defense": 45,
+            "Base Special Attack": 35,
+            "Base Special Defense": 35,
+            "Base Speed": 75
+        }
+    },
+    {
+        "Nombre": "dodrio",
+        "Especie": "Pokémon Ave Triple",
+        "Descripción en Español": "Más vale no perder de vista ninguna de las tres cabezas. De lo contrario, el número de picotazos será enorme.",
+        "Tipo/s": [
+            "normal",
+            "flying"
+        ],
+        "Altura": 18,
+        "Peso": 852,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "doduo",
+            "dodrio"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 110,
+            "Base Defense": 70,
+            "Base Special Attack": 60,
+            "Base Special Defense": 60,
+            "Base Speed": 110
+        }
+    },
+    {
+        "Nombre": "seel",
+        "Especie": "Pokémon León Marino",
+        "Descripción en Español": "Este Pokémon vive en icebergs. Nada en el mar y usa el cuerno de su cabeza para romper el hielo.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 11,
+        "Peso": 900,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "white",
+        "Linea Evolutiva": [
+            "seel",
+            "dewgong"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 45,
+            "Base Defense": 55,
+            "Base Special Attack": 45,
+            "Base Special Defense": 70,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "dewgong",
+        "Especie": "Pokémon León Marino",
+        "Descripción en Español": "Está recubierto de un luminoso pelaje blanco. Este Pokémon aumenta su actividad cuando bajan las temperaturas.",
+        "Tipo/s": [
+            "water",
+            "ice"
+        ],
+        "Altura": 17,
+        "Peso": 1200,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "white",
+        "Linea Evolutiva": [
+            "seel",
+            "dewgong"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 70,
+            "Base Defense": 80,
+            "Base Special Attack": 70,
+            "Base Special Defense": 95,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "grimer",
+        "Especie": "Pokémon Lodo",
+        "Descripción en Español": "Nace de lodo alterado al filtrarse en el agua los rayos X reflejados por la Luna. Se alimenta de sustancias desagradables.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 9,
+        "Peso": 300,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "grimer",
+            "muk"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 80,
+            "Base Defense": 50,
+            "Base Special Attack": 40,
+            "Base Special Defense": 50,
+            "Base Speed": 25
+        }
+    },
+    {
+        "Nombre": "muk",
+        "Especie": "Pokémon Lodo",
+        "Descripción en Español": "Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 12,
+        "Peso": 300,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "grimer",
+            "muk"
+        ],
+        "Estadísticas": {
+            "Base Hp": 105,
+            "Base Attack": 105,
+            "Base Defense": 75,
+            "Base Special Attack": 65,
+            "Base Special Defense": 100,
+            "Base Speed": 50
+        }
+    },
+    {
+        "Nombre": "shellder",
+        "Especie": "Pokémon Bivalvo",
+        "Descripción en Español": "La concha lo protege de cualquier tipo de ataque. Solo es vulnerable cuando se abre.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 3,
+        "Peso": 40,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "shellder",
+            "cloyster"
+        ],
+        "Estadísticas": {
+            "Base Hp": 30,
+            "Base Attack": 65,
+            "Base Defense": 100,
+            "Base Special Attack": 45,
+            "Base Special Defense": 25,
+            "Base Speed": 40
+        }
+    },
+    {
+        "Nombre": "cloyster",
+        "Especie": "Pokémon Bivalvo",
+        "Descripción en Español": "A los Cloyster que viven en las fuertes corrientes marinas les crecen largas y afiladas púas en la concha.",
+        "Tipo/s": [
+            "water",
+            "ice"
+        ],
+        "Altura": 15,
+        "Peso": 1325,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "shellder",
+            "cloyster"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 95,
+            "Base Defense": 180,
+            "Base Special Attack": 85,
+            "Base Special Defense": 45,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "gastly",
+        "Especie": "Pokémon Gas",
+        "Descripción en Español": "Su etéreo cuerpo está hecho de gas. Puede envolver a un oponente de cualquier tamaño hasta ahogarlo.",
+        "Tipo/s": [
+            "ghost",
+            "poison"
+        ],
+        "Altura": 13,
+        "Peso": 1,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ],
+        "Estadísticas": {
+            "Base Hp": 30,
+            "Base Attack": 35,
+            "Base Defense": 30,
+            "Base Special Attack": 100,
+            "Base Special Defense": 35,
+            "Base Speed": 80
+        }
+    },
+    {
+        "Nombre": "haunter",
+        "Especie": "Pokémon Gas",
+        "Descripción en Español": "Cuando tienes la sensación de que te están observando, seguro que es porque Haunter está cerca.",
+        "Tipo/s": [
+            "ghost",
+            "poison"
+        ],
+        "Altura": 16,
+        "Peso": 1,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ],
+        "Estadísticas": {
+            "Base Hp": 45,
+            "Base Attack": 50,
+            "Base Defense": 45,
+            "Base Special Attack": 115,
+            "Base Special Defense": 55,
+            "Base Speed": 95
+        }
+    },
+    {
+        "Nombre": "gengar",
+        "Especie": "Pokémon Sombra",
+        "Descripción en Español": "Se esconde entre las sombras. Se dice que donde Gengar acecha, la temperatura baja 5 °C.",
+        "Tipo/s": [
+            "ghost",
+            "poison"
+        ],
+        "Altura": 15,
+        "Peso": 405,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 65,
+            "Base Defense": 60,
+            "Base Special Attack": 130,
+            "Base Special Defense": 75,
+            "Base Speed": 110
+        }
+    },
+    {
+        "Nombre": "onix",
+        "Especie": "Pokémon Serpiente Roca",
+        "Descripción en Español": "Cava a gran velocidad en busca de comida. Los túneles que deja son usados por los Diglett.",
+        "Tipo/s": [
+            "rock",
+            "ground"
+        ],
+        "Altura": 88,
+        "Peso": 2100,
+        "Generación": "generation-i",
+        "Hábitat": "cave",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "onix",
+            "steelix"
+        ],
+        "Estadísticas": {
+            "Base Hp": 35,
+            "Base Attack": 45,
+            "Base Defense": 160,
+            "Base Special Attack": 30,
+            "Base Special Defense": 45,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "drowzee",
+        "Especie": "Pokémon Hipnosis",
+        "Descripción en Español": "Adormece a sus enemigos y se come sus sueños. A veces se pone enfermo si come pesadillas.",
+        "Tipo/s": [
+            "psychic"
+        ],
+        "Altura": 10,
+        "Peso": 324,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "drowzee",
+            "hypno"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 48,
+            "Base Defense": 45,
+            "Base Special Attack": 43,
+            "Base Special Defense": 90,
+            "Base Speed": 42
+        }
+    },
+    {
+        "Nombre": "hypno",
+        "Especie": "Pokémon Hipnosis",
+        "Descripción en Español": "Lleva un péndulo en la mano. Una vez, hizo desaparecer a un niño al que había hipnotizado.",
+        "Tipo/s": [
+            "psychic"
+        ],
+        "Altura": 16,
+        "Peso": 756,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "drowzee",
+            "hypno"
+        ],
+        "Estadísticas": {
+            "Base Hp": 85,
+            "Base Attack": 73,
+            "Base Defense": 70,
+            "Base Special Attack": 73,
+            "Base Special Defense": 115,
+            "Base Speed": 67
+        }
+    },
+    {
+        "Nombre": "krabby",
+        "Especie": "Pokémon Cangrejo",
+        "Descripción en Español": "Ante el peligro, se camufla con las burbujas que desprende su boca, para parecer más grande.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 4,
+        "Peso": 65,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "krabby",
+            "kingler"
+        ],
+        "Estadísticas": {
+            "Base Hp": 30,
+            "Base Attack": 105,
+            "Base Defense": 90,
+            "Base Special Attack": 25,
+            "Base Special Defense": 25,
+            "Base Speed": 50
+        }
+    },
+    {
+        "Nombre": "kingler",
+        "Especie": "Pokémon Tenaza",
+        "Descripción en Español": "La pinza tan grande que tiene posee una fuerza de 10 000 caballos de potencia. Pero, por su gran tamaño, cuesta moverla.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 13,
+        "Peso": 600,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "krabby",
+            "kingler"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 130,
+            "Base Defense": 115,
+            "Base Special Attack": 50,
+            "Base Special Defense": 50,
+            "Base Speed": 75
+        }
+    },
+    {
+        "Nombre": "voltorb",
+        "Especie": "Pokémon Bola",
+        "Descripción en Español": "Fue descubierto cuando se crearon las Poké Balls. Se dice que tiene algo que ver con ellas.",
+        "Tipo/s": [
+            "electric"
+        ],
+        "Altura": 5,
+        "Peso": 104,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "voltorb",
+            "electrode"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 30,
+            "Base Defense": 50,
+            "Base Special Attack": 55,
+            "Base Special Defense": 55,
+            "Base Speed": 100
+        }
+    },
+    {
+        "Nombre": "electrode",
+        "Especie": "Pokémon Bola",
+        "Descripción en Español": "Explotan a la mínima. Por eso se les tiene mucho miedo. Estos Pokémon reciben el mote de Bomba Ball.",
+        "Tipo/s": [
+            "electric"
+        ],
+        "Altura": 12,
+        "Peso": 666,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "voltorb",
+            "electrode"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 50,
+            "Base Defense": 70,
+            "Base Special Attack": 80,
+            "Base Special Defense": 80,
+            "Base Speed": 150
+        }
+    },
+    {
+        "Nombre": "exeggcute",
+        "Especie": "Pokémon Huevo",
+        "Descripción en Español": "Estos seis huevos se comunican por telepatía. Si se separan, se pueden reunir rápidamente.",
+        "Tipo/s": [
+            "grass",
+            "psychic"
+        ],
+        "Altura": 4,
+        "Peso": 25,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "exeggcute",
+            "exeggutor"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 40,
+            "Base Defense": 80,
+            "Base Special Attack": 60,
+            "Base Special Defense": 45,
+            "Base Speed": 40
+        }
+    },
+    {
+        "Nombre": "exeggutor",
+        "Especie": "Pokémon Coco",
+        "Descripción en Español": "Sus tres cabezas piensan de forma independiente. Sin embargo, son amigas y no suelen discutir nunca.",
+        "Tipo/s": [
+            "grass",
+            "psychic"
+        ],
+        "Altura": 20,
+        "Peso": 1200,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "exeggcute",
+            "exeggutor"
+        ],
+        "Estadísticas": {
+            "Base Hp": 95,
+            "Base Attack": 95,
+            "Base Defense": 85,
+            "Base Special Attack": 125,
+            "Base Special Defense": 75,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "cubone",
+        "Especie": "Pokémon Solitario",
+        "Descripción en Español": "Lleva puesto el cráneo de su madre. Cuando se siente solo se pone a gritar muy fuerte.",
+        "Tipo/s": [
+            "ground"
+        ],
+        "Altura": 4,
+        "Peso": 65,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "cubone",
+            "marowak"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 50,
+            "Base Defense": 95,
+            "Base Special Attack": 40,
+            "Base Special Defense": 50,
+            "Base Speed": 35
+        }
+    },
+    {
+        "Nombre": "marowak",
+        "Especie": "Pokémon Apilahueso",
+        "Descripción en Español": "Es pequeño y siempre ha sido muy débil. Cuando empezó a usar huesos, se volvió más violento.",
+        "Tipo/s": [
+            "ground"
+        ],
+        "Altura": 10,
+        "Peso": 450,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "cubone",
+            "marowak"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 80,
+            "Base Defense": 110,
+            "Base Special Attack": 50,
+            "Base Special Defense": 80,
+            "Base Speed": 45
+        }
+    },
+    {
+        "Nombre": "hitmonlee",
+        "Especie": "Pokémon Patada",
+        "Descripción en Español": "Encoge y estira las patas a su antojo. Cuando las estira, es capaz de propinar una buena patada al enemigo.",
+        "Tipo/s": [
+            "fighting"
+        ],
+        "Altura": 15,
+        "Peso": 498,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "tyrogue",
+            "hitmonlee",
+            "hitmonchan",
+            "hitmontop"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 120,
+            "Base Defense": 53,
+            "Base Special Attack": 35,
+            "Base Special Defense": 110,
+            "Base Speed": 87
+        }
+    },
+    {
+        "Nombre": "hitmonchan",
+        "Especie": "Pokémon Puñetazo",
+        "Descripción en Español": "Los potentes golpes de sus brazos pueden pulverizar el hormigón. Descansa tras luchar tres minutos.",
+        "Tipo/s": [
+            "fighting"
+        ],
+        "Altura": 14,
+        "Peso": 502,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "tyrogue",
+            "hitmonlee",
+            "hitmonchan",
+            "hitmontop"
+        ],
+        "Estadísticas": {
+            "Base Hp": 50,
+            "Base Attack": 105,
+            "Base Defense": 79,
+            "Base Special Attack": 35,
+            "Base Special Defense": 110,
+            "Base Speed": 76
+        }
+    },
+    {
+        "Nombre": "lickitung",
+        "Especie": "Pokémon Lametazo",
+        "Descripción en Español": "Su larga lengua, recubierta de saliva pegajosa, se pega a todo, por lo que es muy útil.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 12,
+        "Peso": 655,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "lickitung",
+            "lickilicky"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 55,
+            "Base Defense": 75,
+            "Base Special Attack": 60,
+            "Base Special Defense": 75,
+            "Base Speed": 30
+        }
+    },
+    {
+        "Nombre": "koffing",
+        "Especie": "Pokémon Gas Venenoso",
+        "Descripción en Español": "Tiene forma de globo y es muy ligero. Está compuesto por gases tóxicos y apesta.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 6,
+        "Peso": 10,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "koffing",
+            "weezing"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 65,
+            "Base Defense": 95,
+            "Base Special Attack": 60,
+            "Base Special Defense": 45,
+            "Base Speed": 35
+        }
+    },
+    {
+        "Nombre": "weezing",
+        "Especie": "Pokémon Gas Venenoso",
+        "Descripción en Español": "Si uno de los gemelos Koffing se infla, el otro se desinfla. Mezclan constantemente sus venenosos gases.",
+        "Tipo/s": [
+            "poison"
+        ],
+        "Altura": 12,
+        "Peso": 95,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "koffing",
+            "weezing"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 90,
+            "Base Defense": 120,
+            "Base Special Attack": 85,
+            "Base Special Defense": 70,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "rhyhorn",
+        "Especie": "Pokémon Clavos",
+        "Descripción en Español": "Es muy fuerte, pero no especialmente listo. Es capaz de derribar rascacielos usando Placaje varias veces.",
+        "Tipo/s": [
+            "ground",
+            "rock"
+        ],
+        "Altura": 10,
+        "Peso": 1150,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "rhyhorn",
+            "rhydon",
+            "rhyperior"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 85,
+            "Base Defense": 95,
+            "Base Special Attack": 30,
+            "Base Special Defense": 30,
+            "Base Speed": 25
+        }
+    },
+    {
+        "Nombre": "rhydon",
+        "Especie": "Pokémon Taladro",
+        "Descripción en Español": "La piel le sirve de escudo protector. Puede vivir en lava líquida a 2000 °C de temperatura.",
+        "Tipo/s": [
+            "ground",
+            "rock"
+        ],
+        "Altura": 19,
+        "Peso": 1200,
+        "Generación": "generation-i",
+        "Hábitat": "rough-terrain",
+        "Tipo de Color": "gray",
+        "Linea Evolutiva": [
+            "rhyhorn",
+            "rhydon",
+            "rhyperior"
+        ],
+        "Estadísticas": {
+            "Base Hp": 105,
+            "Base Attack": 130,
+            "Base Defense": 120,
+            "Base Special Attack": 45,
+            "Base Special Defense": 45,
+            "Base Speed": 40
+        }
+    },
+    {
+        "Nombre": "chansey",
+        "Especie": "Pokémon Huevo",
+        "Descripción en Español": "Se dice que reparte felicidad. Se caracteriza por su compasión y reparte sus huevos entre la gente herida.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 11,
+        "Peso": 346,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "happiny",
+            "chansey",
+            "blissey"
+        ],
+        "Estadísticas": {
+            "Base Hp": 250,
+            "Base Attack": 5,
+            "Base Defense": 5,
+            "Base Special Attack": 35,
+            "Base Special Defense": 105,
+            "Base Speed": 50
+        }
+    },
+    {
+        "Nombre": "tangela",
+        "Especie": "Pokémon Enredadera",
+        "Descripción en Español": "Se camufla con la multitud de lianas que envuelven su cuerpo y que no dejan de crecer a lo largo de toda su vida.",
+        "Tipo/s": [
+            "grass"
+        ],
+        "Altura": 10,
+        "Peso": 350,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "tangela",
+            "tangrowth"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 55,
+            "Base Defense": 115,
+            "Base Special Attack": 100,
+            "Base Special Defense": 40,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "kangaskhan",
+        "Especie": "Pokémon Maternal",
+        "Descripción en Español": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 22,
+        "Peso": 800,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "kangaskhan"
+        ],
+        "Estadísticas": {
+            "Base Hp": 105,
+            "Base Attack": 95,
+            "Base Defense": 80,
+            "Base Special Attack": 40,
+            "Base Special Defense": 80,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "horsea",
+        "Especie": "Pokémon Dragón",
+        "Descripción en Español": "Es famoso por derribar a bichos voladores lanzando tinta desde la superficie del agua.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 4,
+        "Peso": 80,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "horsea",
+            "seadra",
+            "kingdra"
+        ],
+        "Estadísticas": {
+            "Base Hp": 30,
+            "Base Attack": 40,
+            "Base Defense": 70,
+            "Base Special Attack": 70,
+            "Base Special Defense": 25,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "seadra",
+        "Especie": "Pokémon Dragón",
+        "Descripción en Español": "Las afiladas púas que le recubren el cuerpo se le erizan y pueden causar el debilitamiento con solo tocarlo.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 12,
+        "Peso": 250,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "horsea",
+            "seadra",
+            "kingdra"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 65,
+            "Base Defense": 95,
+            "Base Special Attack": 95,
+            "Base Special Defense": 45,
+            "Base Speed": 85
+        }
+    },
+    {
+        "Nombre": "goldeen",
+        "Especie": "Pokémon Pez Color",
+        "Descripción en Español": "Nada a una velocidad de cinco nudos. Si siente peligro, golpea con su afilado cuerno.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 6,
+        "Peso": 150,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "goldeen",
+            "seaking"
+        ],
+        "Estadísticas": {
+            "Base Hp": 45,
+            "Base Attack": 67,
+            "Base Defense": 60,
+            "Base Special Attack": 35,
+            "Base Special Defense": 50,
+            "Base Speed": 63
+        }
+    },
+    {
+        "Nombre": "seaking",
+        "Especie": "Pokémon Pez Color",
+        "Descripción en Español": "En otoño, cuando se reproducen, se les puede ver nadando con energía por ríos y arroyos.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 13,
+        "Peso": 390,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "goldeen",
+            "seaking"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 92,
+            "Base Defense": 65,
+            "Base Special Attack": 65,
+            "Base Special Defense": 80,
+            "Base Speed": 68
+        }
+    },
+    {
+        "Nombre": "staryu",
+        "Especie": "Pokémon Estrella",
+        "Descripción en Español": "Aunque sus brazos se rompan podrán regenerarse, siempre y cuando su núcleo siga intacto.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 8,
+        "Peso": 345,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "staryu",
+            "starmie"
+        ],
+        "Estadísticas": {
+            "Base Hp": 30,
+            "Base Attack": 45,
+            "Base Defense": 55,
+            "Base Special Attack": 70,
+            "Base Special Defense": 55,
+            "Base Speed": 85
+        }
+    },
+    {
+        "Nombre": "starmie",
+        "Especie": "Pokémon Misterioso",
+        "Descripción en Español": "Su núcleo central brilla con los colores del arcoíris. Para algunos tiene el valor de una gema.",
+        "Tipo/s": [
+            "water",
+            "psychic"
+        ],
+        "Altura": 11,
+        "Peso": 800,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "staryu",
+            "starmie"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 75,
+            "Base Defense": 85,
+            "Base Special Attack": 100,
+            "Base Special Defense": 85,
+            "Base Speed": 115
+        }
+    },
+    {
+        "Nombre": "mr-mime",
+        "Especie": "Pokémon Barrera",
+        "Descripción en Español": "Para repeler ataques, solidifica el aire y crea muros invisibles con emanaciones de sus dedos.",
+        "Tipo/s": [
+            "psychic",
+            "fairy"
+        ],
+        "Altura": 13,
+        "Peso": 545,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "mime-jr",
+            "mr-mime",
+            "mr-rime"
+        ],
+        "Estadísticas": {
+            "Base Hp": 40,
+            "Base Attack": 45,
+            "Base Defense": 65,
+            "Base Special Attack": 100,
+            "Base Special Defense": 120,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "scyther",
+        "Especie": "Pokémon Mantis",
+        "Descripción en Español": "Destroza a su presa con las guadañas que tiene. No es común que use las alas para volar.",
+        "Tipo/s": [
+            "bug",
+            "flying"
+        ],
+        "Altura": 15,
+        "Peso": 560,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "green",
+        "Linea Evolutiva": [
+            "scyther",
+            "scizor",
+            "kleavor"
+        ],
+        "Estadísticas": {
+            "Base Hp": 70,
+            "Base Attack": 110,
+            "Base Defense": 80,
+            "Base Special Attack": 55,
+            "Base Special Defense": 80,
+            "Base Speed": 105
+        }
+    },
+    {
+        "Nombre": "jynx",
+        "Especie": "Pokémon Forma Humana",
+        "Descripción en Español": "Camina moviendo las caderas de forma llamativa. Puede hacer que la gente baile a su ritmo.",
+        "Tipo/s": [
+            "ice",
+            "psychic"
+        ],
+        "Altura": 14,
+        "Peso": 406,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "smoochum",
+            "jynx"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 50,
+            "Base Defense": 35,
+            "Base Special Attack": 115,
+            "Base Special Defense": 95,
+            "Base Speed": 95
+        }
+    },
+    {
+        "Nombre": "electabuzz",
+        "Especie": "Pokémon Eléctrico",
+        "Descripción en Español": "Por la superficie de su piel corre la electricidad. En la oscuridad, su cuerpo se torna blanquecino.",
+        "Tipo/s": [
+            "electric"
+        ],
+        "Altura": 11,
+        "Peso": 300,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "elekid",
+            "electabuzz",
+            "electivire"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 83,
+            "Base Defense": 57,
+            "Base Special Attack": 95,
+            "Base Special Defense": 85,
+            "Base Speed": 105
+        }
+    },
+    {
+        "Nombre": "magmar",
+        "Especie": "Pokémon Escupefuego",
+        "Descripción en Español": "A este Pokémon se lo encontraron cerca de un volcán. Esta criatura ígnea tiene una temperatura corporal de unos 1200 °C.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 13,
+        "Peso": 445,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "magby",
+            "magmar",
+            "magmortar"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 95,
+            "Base Defense": 57,
+            "Base Special Attack": 100,
+            "Base Special Defense": 85,
+            "Base Speed": 93
+        }
+    },
+    {
+        "Nombre": "pinsir",
+        "Especie": "Pokémon Escarabajo",
+        "Descripción en Español": "Atrapa presas con sus pinzas hasta que las parte en dos. Lanza lejos lo que no puede quebrar.",
+        "Tipo/s": [
+            "bug"
+        ],
+        "Altura": 15,
+        "Peso": 550,
+        "Generación": "generation-i",
+        "Hábitat": "forest",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "pinsir"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 125,
+            "Base Defense": 100,
+            "Base Special Attack": 55,
+            "Base Special Defense": 70,
+            "Base Speed": 85
+        }
+    },
+    {
+        "Nombre": "tauros",
+        "Especie": "Pokémon Toro Bravo",
+        "Descripción en Español": "Después de animarse a luchar fustigándose con sus tres colas, carga a toda velocidad.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 14,
+        "Peso": 884,
+        "Generación": "generation-i",
+        "Hábitat": "grassland",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "tauros"
+        ],
+        "Estadísticas": {
+            "Base Hp": 75,
+            "Base Attack": 100,
+            "Base Defense": 95,
+            "Base Special Attack": 40,
+            "Base Special Defense": 70,
+            "Base Speed": 110
+        }
+    },
+    {
+        "Nombre": "magikarp",
+        "Especie": "Pokémon Pez",
+        "Descripción en Español": "No es precisamente rápido ni fuerte. Es el Pokémon más debilucho y simplón de todos los que hay.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 9,
+        "Peso": 100,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "magikarp",
+            "gyarados"
+        ],
+        "Estadísticas": {
+            "Base Hp": 20,
+            "Base Attack": 10,
+            "Base Defense": 55,
+            "Base Special Attack": 15,
+            "Base Special Defense": 20,
+            "Base Speed": 80
+        }
+    },
+    {
+        "Nombre": "gyarados",
+        "Especie": "Pokémon Atrocidad",
+        "Descripción en Español": "En la literatura antigua se dice que un Gyarados rebosante de violencia arrasó un poblado.",
+        "Tipo/s": [
+            "water",
+            "flying"
+        ],
+        "Altura": 65,
+        "Peso": 2350,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "magikarp",
+            "gyarados"
+        ],
+        "Estadísticas": {
+            "Base Hp": 95,
+            "Base Attack": 125,
+            "Base Defense": 79,
+            "Base Special Attack": 60,
+            "Base Special Defense": 100,
+            "Base Speed": 81
+        }
+    },
+    {
+        "Nombre": "lapras",
+        "Especie": "Pokémon Transporte",
+        "Descripción en Español": "Son buenos de corazón. Muchos fueron capturados por ser tan pacíficos. Ahora hay muchos menos.",
+        "Tipo/s": [
+            "water",
+            "ice"
+        ],
+        "Altura": 25,
+        "Peso": 2200,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "lapras"
+        ],
+        "Estadísticas": {
+            "Base Hp": 130,
+            "Base Attack": 85,
+            "Base Defense": 80,
+            "Base Special Attack": 85,
+            "Base Special Defense": 95,
+            "Base Speed": 60
+        }
+    },
+    {
+        "Nombre": "ditto",
+        "Especie": "Pokémon Transformación",
+        "Descripción en Español": "Puede alterar por completo su estructura celular para emular cualquier objeto que vea.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 3,
+        "Peso": 40,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "ditto"
+        ],
+        "Estadísticas": {
+            "Base Hp": 48,
+            "Base Attack": 48,
+            "Base Defense": 48,
+            "Base Special Attack": 48,
+            "Base Special Defense": 48,
+            "Base Speed": 48
+        }
+    },
+    {
+        "Nombre": "eevee",
+        "Especie": "Pokémon Evolución",
+        "Descripción en Español": "Un extraño Pokémon que se adapta a los entornos más hostiles gracias a sus diferentes evoluciones.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 3,
+        "Peso": 65,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
+        ],
+        "Estadísticas": {
+            "Base Hp": 55,
+            "Base Attack": 55,
+            "Base Defense": 50,
+            "Base Special Attack": 45,
+            "Base Special Defense": 65,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "vaporeon",
+        "Especie": "Pokémon Burbuja",
+        "Descripción en Español": "Prefiere las bellas costas. Con células parecidas al agua, podría fundirse en la misma.",
+        "Tipo/s": [
+            "water"
+        ],
+        "Altura": 10,
+        "Peso": 290,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
+        ],
+        "Estadísticas": {
+            "Base Hp": 130,
+            "Base Attack": 65,
+            "Base Defense": 60,
+            "Base Special Attack": 110,
+            "Base Special Defense": 95,
+            "Base Speed": 65
+        }
+    },
+    {
+        "Nombre": "jolteon",
+        "Especie": "Pokémon Relámpago",
+        "Descripción en Español": "Todos los pelos de su cuerpo se ponen de punta si empieza a cargarse de electricidad.",
+        "Tipo/s": [
+            "electric"
+        ],
+        "Altura": 8,
+        "Peso": 245,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 65,
+            "Base Defense": 60,
+            "Base Special Attack": 110,
+            "Base Special Defense": 95,
+            "Base Speed": 130
+        }
+    },
+    {
+        "Nombre": "flareon",
+        "Especie": "Pokémon Llama",
+        "Descripción en Español": "Almacena llamas en su cuerpo, que alcanza una temperatura de 900 °C antes de un combate.",
+        "Tipo/s": [
+            "fire"
+        ],
+        "Altura": 9,
+        "Peso": 250,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "red",
+        "Linea Evolutiva": [
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 130,
+            "Base Defense": 60,
+            "Base Special Attack": 95,
+            "Base Special Defense": 110,
+            "Base Speed": 65
+        }
+    },
+    {
+        "Nombre": "porygon",
+        "Especie": "Pokémon Virtual",
+        "Descripción en Español": "Pokémon creado por el hombre tras muchas investigaciones. Sus habilidades son básicas.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 8,
+        "Peso": 365,
+        "Generación": "generation-i",
+        "Hábitat": "urban",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "porygon",
+            "porygon2",
+            "porygon-z"
+        ],
+        "Estadísticas": {
+            "Base Hp": 65,
+            "Base Attack": 60,
+            "Base Defense": 70,
+            "Base Special Attack": 85,
+            "Base Special Defense": 75,
+            "Base Speed": 40
+        }
+    },
+    {
+        "Nombre": "omanyte",
+        "Especie": "Pokémon Espiral",
+        "Descripción en Español": "Pokémon prehistórico que vivió en el océano primordial. Para nadar se valía de sus 10 tentáculos.",
+        "Tipo/s": [
+            "rock",
+            "water"
+        ],
+        "Altura": 4,
+        "Peso": 75,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "omanyte",
+            "omastar"
+        ],
+        "Estadísticas": {
+            "Base Hp": 35,
+            "Base Attack": 40,
+            "Base Defense": 100,
+            "Base Special Attack": 90,
+            "Base Special Defense": 55,
+            "Base Speed": 35
+        }
+    },
+    {
+        "Nombre": "omastar",
+        "Especie": "Pokémon Espiral",
+        "Descripción en Español": "Tiene los tentáculos tan desarrollados que le sirven de manos y pies. Con ellos atrapa a su presa y le da un bocado.",
+        "Tipo/s": [
+            "rock",
+            "water"
+        ],
+        "Altura": 10,
+        "Peso": 350,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "omanyte",
+            "omastar"
+        ],
+        "Estadísticas": {
+            "Base Hp": 70,
+            "Base Attack": 60,
+            "Base Defense": 125,
+            "Base Special Attack": 115,
+            "Base Special Defense": 70,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "kabuto",
+        "Especie": "Pokémon Armazón",
+        "Descripción en Español": "Se cree que habitó las playas hace 300 millones de años. Se protege con una dura concha.",
+        "Tipo/s": [
+            "rock",
+            "water"
+        ],
+        "Altura": 5,
+        "Peso": 115,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "kabuto",
+            "kabutops"
+        ],
+        "Estadísticas": {
+            "Base Hp": 30,
+            "Base Attack": 80,
+            "Base Defense": 90,
+            "Base Special Attack": 55,
+            "Base Special Defense": 45,
+            "Base Speed": 55
+        }
+    },
+    {
+        "Nombre": "kabutops",
+        "Especie": "Pokémon Armazón",
+        "Descripción en Español": "Repliega sus extremidades en el agua para hacerse más compacto, y mueve su concha para nadar rápido.",
+        "Tipo/s": [
+            "rock",
+            "water"
+        ],
+        "Altura": 13,
+        "Peso": 405,
+        "Generación": "generation-i",
+        "Hábitat": "sea",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "kabuto",
+            "kabutops"
+        ],
+        "Estadísticas": {
+            "Base Hp": 60,
+            "Base Attack": 115,
+            "Base Defense": 105,
+            "Base Special Attack": 65,
+            "Base Special Defense": 70,
+            "Base Speed": 80
+        }
+    },
+    {
+        "Nombre": "aerodactyl",
+        "Especie": "Pokémon Fósil",
+        "Descripción en Español": "Se regeneró a partir de material genético de un dinosaurio encontrado en ámbar. Cuando vuela emite escandalosos alaridos.",
+        "Tipo/s": [
+            "rock",
+            "flying"
+        ],
+        "Altura": 18,
+        "Peso": 590,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "aerodactyl"
+        ],
+        "Estadísticas": {
+            "Base Hp": 80,
+            "Base Attack": 105,
+            "Base Defense": 65,
+            "Base Special Attack": 60,
+            "Base Special Defense": 75,
+            "Base Speed": 130
+        }
+    },
+    {
+        "Nombre": "snorlax",
+        "Especie": "Pokémon Dormir",
+        "Descripción en Español": "No se encuentra satisfecho hasta que no se come 400 kg de comida cada día. Cuando acaba de comer, se queda dormido.",
+        "Tipo/s": [
+            "normal"
+        ],
+        "Altura": 21,
+        "Peso": 4600,
+        "Generación": "generation-i",
+        "Hábitat": "mountain",
+        "Tipo de Color": "black",
+        "Linea Evolutiva": [
+            "munchlax",
+            "snorlax"
+        ],
+        "Estadísticas": {
+            "Base Hp": 160,
+            "Base Attack": 110,
+            "Base Defense": 65,
+            "Base Special Attack": 65,
+            "Base Special Defense": 110,
+            "Base Speed": 30
+        }
+    },
+    {
+        "Nombre": "articuno",
+        "Especie": "Pokémon Congelar",
+        "Descripción en Español": "Legendario Pokémon pájaro capaz de generar ventiscas congelando la humedad del aire.",
+        "Tipo/s": [
+            "ice",
+            "flying"
+        ],
+        "Altura": 17,
+        "Peso": 554,
+        "Generación": "generation-i",
+        "Hábitat": "rare",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "articuno"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 85,
+            "Base Defense": 100,
+            "Base Special Attack": 95,
+            "Base Special Defense": 125,
+            "Base Speed": 85
+        }
+    },
+    {
+        "Nombre": "zapdos",
+        "Especie": "Pokémon Eléctrico",
+        "Descripción en Español": "Es un legendario pájaro Pokémon. Dicen que aparece entre las nubes lanzando enormes rayos brillantes.",
+        "Tipo/s": [
+            "electric",
+            "flying"
+        ],
+        "Altura": 16,
+        "Peso": 526,
+        "Generación": "generation-i",
+        "Hábitat": "rare",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "zapdos"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 90,
+            "Base Defense": 85,
+            "Base Special Attack": 125,
+            "Base Special Defense": 90,
+            "Base Speed": 100
+        }
+    },
+    {
+        "Nombre": "moltres",
+        "Especie": "Pokémon Llama",
+        "Descripción en Español": "Es más conocido como el legendario pájaro de fuego. Con cada aleteo crea brillantes llamas.",
+        "Tipo/s": [
+            "fire",
+            "flying"
+        ],
+        "Altura": 20,
+        "Peso": 600,
+        "Generación": "generation-i",
+        "Hábitat": "rare",
+        "Tipo de Color": "yellow",
+        "Linea Evolutiva": [
+            "moltres"
+        ],
+        "Estadísticas": {
+            "Base Hp": 90,
+            "Base Attack": 100,
+            "Base Defense": 90,
+            "Base Special Attack": 125,
+            "Base Special Defense": 85,
+            "Base Speed": 90
+        }
+    },
+    {
+        "Nombre": "dratini",
+        "Especie": "Pokémon Dragón",
+        "Descripción en Español": "Se le llama el Pokémon Espejismo porque son muy pocos los que lo han visto. Se encontró su muda.",
+        "Tipo/s": [
+            "dragon"
+        ],
+        "Altura": 18,
+        "Peso": 33,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ],
+        "Estadísticas": {
+            "Base Hp": 41,
+            "Base Attack": 64,
+            "Base Defense": 45,
+            "Base Special Attack": 50,
+            "Base Special Defense": 50,
+            "Base Speed": 50
+        }
+    },
+    {
+        "Nombre": "dragonair",
+        "Especie": "Pokémon Dragón",
+        "Descripción en Español": "Sus cristalinos orbes parecen darle al Pokémon el poder de controlar el clima libremente.",
+        "Tipo/s": [
+            "dragon"
+        ],
+        "Altura": 40,
+        "Peso": 165,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "blue",
+        "Linea Evolutiva": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ],
+        "Estadísticas": {
+            "Base Hp": 61,
+            "Base Attack": 84,
+            "Base Defense": 65,
+            "Base Special Attack": 70,
+            "Base Special Defense": 70,
+            "Base Speed": 70
+        }
+    },
+    {
+        "Nombre": "dragonite",
+        "Especie": "Pokémon Dragón",
+        "Descripción en Español": "A pesar del tamaño que tiene y de lo pesado que es, puede volar. Es capaz de dar la vuelta al mundo en solo 16 horas.",
+        "Tipo/s": [
+            "dragon",
+            "flying"
+        ],
+        "Altura": 22,
+        "Peso": 2100,
+        "Generación": "generation-i",
+        "Hábitat": "waters-edge",
+        "Tipo de Color": "brown",
+        "Linea Evolutiva": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ],
+        "Estadísticas": {
+            "Base Hp": 91,
+            "Base Attack": 134,
+            "Base Defense": 95,
+            "Base Special Attack": 100,
+            "Base Special Defense": 100,
+            "Base Speed": 80
+        }
+    },
+    {
+        "Nombre": "mewtwo",
+        "Especie": "Pokémon Genético",
+        "Descripción en Español": "Fue creado por un científico tras años de horribles experimentos de ingeniería genética.",
+        "Tipo/s": [
+            "psychic"
+        ],
+        "Altura": 20,
+        "Peso": 1220,
+        "Generación": "generation-i",
+        "Hábitat": "rare",
+        "Tipo de Color": "purple",
+        "Linea Evolutiva": [
+            "mewtwo"
+        ],
+        "Estadísticas": {
+            "Base Hp": 106,
+            "Base Attack": 110,
+            "Base Defense": 90,
+            "Base Special Attack": 154,
+            "Base Special Defense": 90,
+            "Base Speed": 130
+        }
+    },
+    {
+        "Nombre": "mew",
+        "Especie": "Pokémon Nueva Especie",
+        "Descripción en Español": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Tipo/s": [
+            "psychic"
+        ],
+        "Altura": 4,
+        "Peso": 40,
+        "Generación": "generation-i",
+        "Hábitat": "rare",
+        "Tipo de Color": "pink",
+        "Linea Evolutiva": [
+            "mew"
+        ],
+        "Estadísticas": {
+            "Base Hp": 100,
+            "Base Attack": 100,
+            "Base Defense": 100,
+            "Base Special Attack": 100,
+            "Base Special Defense": 100,
+            "Base Speed": 100
+        }
+    }
+]
